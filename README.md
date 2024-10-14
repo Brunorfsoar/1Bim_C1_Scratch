@@ -1,4 +1,4 @@
-Curso Alura 1º bimestre 2024 SP
+Curso Alura 1º bimestre 2024 SP - 
 Utilize bloco de sensor para detectar colisões entre personagens;
 Aplique o recurso de clones para criar cópias de atores no projeto;
 Use as ferramentas de edição de imagens do Scratch;
